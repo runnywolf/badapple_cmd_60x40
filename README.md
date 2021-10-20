@@ -1,1 +1,1 @@
-# badapple_cmd_60x40
+#badapple in the py.exe
