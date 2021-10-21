@@ -1,0 +1,7 @@
+Make sure that the animation plays correctly, please set the default size of the CMD window first.
+win+R / type in "cmd" / right click top of window / Default / Layout / Window Size(Width=121, Height=47)
+....../ Window Position(Left=0, Top=0)
+
+為確保動畫正常播放, 請先設置命令視窗預設大小
+win鍵+R輸入cmd點確定 / 右鍵命令視窗上方 / 預設值 / 版面配置 / 視窗大小(寬度=121, 高度=47)
+....../ 視窗位置(左=0, 上=0)
